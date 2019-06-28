@@ -1,0 +1,1 @@
+Sommet * creerSommet(int cle)
